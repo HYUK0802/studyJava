@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="study">
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch02/FunctionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch04/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch04/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch06/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch06/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch07/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch07/UserInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch08/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch08/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch08/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch08/UserTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,10 +53,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Chapter2.ch06.StudentTest.executor": "Run",
     "Application.FunctionTest.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.OrderTest.executor": "Run",
     "Application.StudentTest.executor": "Run",
+    "Application.UserInfoTest.executor": "Run",
+    "Application.UserTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -61,13 +72,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StudentTest">
-    <configuration name="FunctionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.ch02.FunctionTest" />
+  <component name="RunManager" selected="Application.OrderTest">
+    <configuration name="Chapter2.ch06.StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.ch06.StudentTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter2.ch02.*" />
+          <option name="PATTERN" value="Chapter2.ch06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.ch08.OrderTest" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter2.ch08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,10 +112,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserInfoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.ch07.UserInfoTest" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter2.ch07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.ch08.UserTest" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter2.ch08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrderTest" />
+        <item itemvalue="Application.UserTest" />
+        <item itemvalue="Application.UserInfoTest" />
+        <item itemvalue="Application.Chapter2.ch06.StudentTest" />
         <item itemvalue="Application.StudentTest" />
-        <item itemvalue="Application.FunctionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +165,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715786590355</updated>
       <workItem from="1715786591358" duration="2036000" />
-      <workItem from="1716039581023" duration="6339000" />
+      <workItem from="1716039581023" duration="15157000" />
     </task>
     <task id="LOCAL-00001" summary="study">
       <option name="closed" value="true" />
@@ -122,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716039646103</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="study">
+      <option name="closed" value="true" />
+      <created>1716293357667</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716293357667</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,5 +192,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="study" />
     <option name="LAST_COMMIT_MESSAGE" value="study" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_study$Chapter2_ch06_StudentTest.ic" NAME="Chapter2.ch06.StudentTest Coverage Results" MODIFIED="1716366838777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Chapter2.ch06.*</FILTER>
+    </SUITE>
   </component>
 </project>
