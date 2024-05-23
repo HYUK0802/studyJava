@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="study">
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch09/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch09/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch09/SubjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch10/BirthDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch10/BirthDayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch11/MakeReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch11/TestReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch12/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +52,10 @@
     "Application.FunctionTest.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OrderTest.executor": "Run",
+    "Application.Person.executor": "Run",
     "Application.StudentTest.executor": "Run",
     "Application.SubjectTest.executor": "Run",
+    "Application.TestReport.executor": "Run",
     "Application.UserInfoTest.executor": "Run",
     "Application.UserTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,7 +70,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BirthDayTest">
+  <component name="RunManager" selected="Application.Person">
     <configuration name="BirthDayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter2.ch10.BirthDayTest" />
       <module name="java-study" />
@@ -97,6 +97,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.ch12.Person" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter2.ch12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SubjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter2.ch09.SubjectTest" />
       <module name="java-study" />
@@ -110,25 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserInfoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.ch07.UserInfoTest" />
+    <configuration name="TestReport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.ch11.TestReport" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter2.ch07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.ch08.UserTest" />
-      <module name="java-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter2.ch08.*" />
+          <option name="PATTERN" value="Chapter2.ch11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.TestReport" />
         <item itemvalue="Application.BirthDayTest" />
         <item itemvalue="Application.SubjectTest" />
         <item itemvalue="Application.OrderTest" />
-        <item itemvalue="Application.UserTest" />
-        <item itemvalue="Application.UserInfoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +164,7 @@
       <updated>1715786590355</updated>
       <workItem from="1715786591358" duration="2036000" />
       <workItem from="1716039581023" duration="20164000" />
-      <workItem from="1716394912500" duration="4754000" />
+      <workItem from="1716394912500" duration="13813000" />
     </task>
     <task id="LOCAL-00001" summary="study">
       <option name="closed" value="true" />
@@ -190,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716387082787</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="study">
+      <option name="closed" value="true" />
+      <created>1716462061100</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716462061101</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
