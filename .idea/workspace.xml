@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="study">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch06/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch06/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch07/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch07/UserInfoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch08/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch08/OrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch08/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch08/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch09/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch09/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch09/SubjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch10/BirthDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch10/BirthDayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,18 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "HYUK0802"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HYUK0802&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HYUK0802/studyJava.git",
-    "accountId": "6c6b230f-806b-4c03-83f2-4a6eca2359ed"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HYUK0802/studyJava.git&quot;,
+    &quot;accountId&quot;: &quot;6c6b230f-806b-4c03-83f2-4a6eca2359ed&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -53,11 +49,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BirthDayTest.executor": "Run",
     "Application.Chapter2.ch06.StudentTest.executor": "Run",
     "Application.FunctionTest.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OrderTest.executor": "Run",
     "Application.StudentTest.executor": "Run",
+    "Application.SubjectTest.executor": "Run",
     "Application.UserInfoTest.executor": "Run",
     "Application.UserTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -72,13 +70,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OrderTest">
-    <configuration name="Chapter2.ch06.StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.ch06.StudentTest" />
+  <component name="RunManager" selected="Application.BirthDayTest">
+    <configuration name="BirthDayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.ch10.BirthDayTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter2.ch06.*" />
+          <option name="PATTERN" value="Chapter2.ch10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.ch04.StudentTest" />
+    <configuration name="SubjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.ch09.SubjectTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter2.ch04.*" />
+          <option name="PATTERN" value="Chapter2.ch09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BirthDayTest" />
+        <item itemvalue="Application.SubjectTest" />
         <item itemvalue="Application.OrderTest" />
         <item itemvalue="Application.UserTest" />
         <item itemvalue="Application.UserInfoTest" />
-        <item itemvalue="Application.Chapter2.ch06.StudentTest" />
-        <item itemvalue="Application.StudentTest" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +163,8 @@
       <option name="presentableId" value="Default" />
       <updated>1715786590355</updated>
       <workItem from="1715786591358" duration="2036000" />
-      <workItem from="1716039581023" duration="15157000" />
+      <workItem from="1716039581023" duration="20164000" />
+      <workItem from="1716394912500" duration="4754000" />
     </task>
     <task id="LOCAL-00001" summary="study">
       <option name="closed" value="true" />
@@ -183,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716293357667</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="study">
+      <option name="closed" value="true" />
+      <created>1716387082787</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716387082787</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
