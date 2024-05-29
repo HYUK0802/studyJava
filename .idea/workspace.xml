@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="study">
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch18/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch18/CompanyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch19/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch19/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch19/CarFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch20/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch20/CharArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch21/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch21/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch21/ObjectCopyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch22/TwoDimensionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch23/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch24/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch24/StudentSubjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2/ch24/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch02/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,20 +55,27 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayListTest.executor": "Run",
+    "Application.ArrayTest.executor": "Run",
     "Application.BirthDayTest.executor": "Run",
+    "Application.BookTest.executor": "Run",
     "Application.CarFactoryTest.executor": "Run",
     "Application.Chapter2.ch06.StudentTest.executor": "Run",
     "Application.Chapter2.ch15.TakeTransTest.executor": "Run",
+    "Application.CharArrayTest.executor": "Run",
     "Application.CompanyTest.executor": "Run",
     "Application.EmployeeTest.executor": "Run",
     "Application.FunctionTest.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.ObjectCopyTest.executor": "Run",
     "Application.OrderTest.executor": "Run",
     "Application.Person.executor": "Run",
+    "Application.StudentSubjectTest.executor": "Run",
     "Application.StudentTest.executor": "Run",
     "Application.SubjectTest.executor": "Run",
     "Application.TakeTransTest.executor": "Debug",
     "Application.TestReport.executor": "Run",
+    "Application.TwoDimensionTest.executor": "Run",
     "Application.UserInfoTest.executor": "Run",
     "Application.UserTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -77,13 +90,18 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CarFactoryTest">
-    <configuration name="CarFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.ch19.CarFactoryTest" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Chapter2.ch24" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StudentSubjectTest">
+    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.ch23.ArrayListTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter2.ch19.*" />
+          <option name="PATTERN" value="Chapter2.ch23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter2.ch15.TakeTransTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.ch15.TakeTransTest" />
+    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.ch21.BookTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter2.ch15.*" />
+          <option name="PATTERN" value="Chapter2.ch21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompanyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.ch18.CompanyTest" />
+    <configuration name="ObjectCopyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.ch21.ObjectCopyTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter2.ch18.*" />
+          <option name="PATTERN" value="Chapter2.ch21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.ch16.EmployeeTest" />
+    <configuration name="StudentSubjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.ch24.StudentSubjectTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter2.ch16.*" />
+          <option name="PATTERN" value="Chapter2.ch24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TakeTransTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.ch14.TakeTransTest" />
+    <configuration name="TwoDimensionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2.ch22.TwoDimensionTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter2.ch14.*" />
+          <option name="PATTERN" value="Chapter2.ch22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CarFactoryTest" />
-        <item itemvalue="Application.CompanyTest" />
-        <item itemvalue="Application.EmployeeTest" />
-        <item itemvalue="Application.Chapter2.ch15.TakeTransTest" />
-        <item itemvalue="Application.TakeTransTest" />
+        <item itemvalue="Application.StudentSubjectTest" />
+        <item itemvalue="Application.ArrayListTest" />
+        <item itemvalue="Application.TwoDimensionTest" />
+        <item itemvalue="Application.ObjectCopyTest" />
+        <item itemvalue="Application.BookTest" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +189,7 @@
       <updated>1715786590355</updated>
       <workItem from="1715786591358" duration="2036000" />
       <workItem from="1716039581023" duration="20164000" />
-      <workItem from="1716394912500" duration="35029000" />
+      <workItem from="1716394912500" duration="52574000" />
     </task>
     <task id="LOCAL-00001" summary="study">
       <option name="closed" value="true" />
@@ -229,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716790259130</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="study">
+      <option name="closed" value="true" />
+      <created>1716912757010</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716912757010</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,17 +264,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="study" />
     <option name="LAST_COMMIT_MESSAGE" value="study" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapter2/ch19/CarFactoryTest.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java_study$Chapter2_ch06_StudentTest.ic" NAME="Chapter2.ch06.StudentTest Coverage Results" MODIFIED="1716366838777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
