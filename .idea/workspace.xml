@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="study">
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch02/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch02/VIPCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch03/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch03/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch03/VIPCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch04/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch04/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch04/VIPCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch06/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch06/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch06/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch06/GoldCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch06/VIPCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch08/AnimalTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3/ch02/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/ch02/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3/ch06/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/ch06/CustomerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +78,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/hyuk/Desktop/StudyAlone/java-study/src/Chapter3/ch06",
+    "last_opened_file_path": "/Users/hyuk/Desktop/StudyAlone/java-study/src/Chapter3/ch08",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -101,6 +89,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Chapter3/ch08" />
       <recent name="$PROJECT_DIR$/src/Chapter3/ch06" />
       <recent name="$PROJECT_DIR$/src/Chapter3/ch04" />
       <recent name="$PROJECT_DIR$/src/Chapter3/ch03" />
@@ -109,13 +98,13 @@
       <recent name="Chapter2.ch24" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Chapter3.ch06.CustomerTest">
+  <component name="RunManager" selected="Application.AnimalTest">
     <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.ch06.AnimalTest" />
+      <option name="MAIN_CLASS_NAME" value="Chapter3.ch08.AnimalTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.ch06.*" />
+          <option name="PATTERN" value="Chapter3.ch08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,7 +143,7 @@
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.ch06.*" />
+          <option name="PATTERN" value="Chapter3.ch08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,8 +166,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Chapter3.ch06.CustomerTest" />
         <item itemvalue="Application.AnimalTest" />
+        <item itemvalue="Application.Chapter3.ch06.CustomerTest" />
         <item itemvalue="Application.Chapter3.ch04.CustomerTest" />
         <item itemvalue="Application.Chapter3.ch03.CustomerTest" />
         <item itemvalue="Application.CustomerTest" />
@@ -203,7 +192,7 @@
       <updated>1715786590355</updated>
       <workItem from="1715786591358" duration="2036000" />
       <workItem from="1716039581023" duration="20164000" />
-      <workItem from="1716394912500" duration="71697000" />
+      <workItem from="1716394912500" duration="74361000" />
     </task>
     <task id="LOCAL-00001" summary="study">
       <option name="closed" value="true" />
@@ -277,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717001324009</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="study">
+      <option name="closed" value="true" />
+      <created>1717170319953</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717170319953</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
