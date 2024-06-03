@@ -19,6 +19,13 @@ public interface Calc {
         for (int num :arr) {
             total += num;
         }
+        myStaticMethod();
         return total;
+    }
+    private void myMethod() {
+        System.out.println("MyMethod");
+    }
+    private static void myStaticMethod() {
+        System.out.println("MyStaticMethod");
     }
 }

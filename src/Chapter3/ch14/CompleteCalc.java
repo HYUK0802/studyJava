@@ -18,4 +18,10 @@ public class CompleteCalc extends Calculator {
     public void showInfo() {
         System.out.println("모두 구현했습니다.");
     }
+
+    @Override
+    public void description() {
+        System.out.println("CompleteCalc overriding");
+    }
+
 }
