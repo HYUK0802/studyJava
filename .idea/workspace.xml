@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="study">
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch08/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch09/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch09/ComputerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch09/Desktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch09/MyNoteBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch09/NoteBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch10/AICar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch10/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch10/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch10/ManualCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3/ch06/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/ch06/CustomerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +59,7 @@
     "Application.BirthDayTest.executor": "Run",
     "Application.BookTest.executor": "Run",
     "Application.CarFactoryTest.executor": "Run",
+    "Application.CarTest.executor": "Run",
     "Application.Chapter2.ch06.StudentTest.executor": "Run",
     "Application.Chapter2.ch15.TakeTransTest.executor": "Run",
     "Application.Chapter3.ch03.CustomerTest.executor": "Run",
@@ -59,6 +67,7 @@
     "Application.Chapter3.ch06.CustomerTest.executor": "Run",
     "Application.CharArrayTest.executor": "Run",
     "Application.CompanyTest.executor": "Run",
+    "Application.ComputerTest.executor": "Run",
     "Application.CustomerTest.executor": "Run",
     "Application.EmployeeTest.executor": "Run",
     "Application.FunctionTest.executor": "Run",
@@ -98,7 +107,7 @@
       <recent name="Chapter2.ch24" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimalTest">
+  <component name="RunManager" selected="Application.CarTest">
     <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter3.ch08.AnimalTest" />
       <module name="java-study" />
@@ -112,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter3.ch03.CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.ch03.CustomerTest" />
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.ch10.CarTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.ch03.*" />
+          <option name="PATTERN" value="Chapter3.ch10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.ch02.CustomerTest" />
+    <configuration name="ComputerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.ch09.ComputerTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.ch02.*" />
+          <option name="PATTERN" value="Chapter3.ch09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarTest" />
+        <item itemvalue="Application.ComputerTest" />
         <item itemvalue="Application.AnimalTest" />
         <item itemvalue="Application.Chapter3.ch06.CustomerTest" />
         <item itemvalue="Application.Chapter3.ch04.CustomerTest" />
-        <item itemvalue="Application.Chapter3.ch03.CustomerTest" />
-        <item itemvalue="Application.CustomerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +201,7 @@
       <updated>1715786590355</updated>
       <workItem from="1715786591358" duration="2036000" />
       <workItem from="1716039581023" duration="20164000" />
-      <workItem from="1716394912500" duration="74361000" />
+      <workItem from="1716394912500" duration="84269000" />
     </task>
     <task id="LOCAL-00001" summary="study">
       <option name="closed" value="true" />
@@ -274,7 +283,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717170319953</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="study">
+      <option name="closed" value="true" />
+      <created>1717337386409</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1717337386409</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
