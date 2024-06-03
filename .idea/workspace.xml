@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="study">
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch15/BookShelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch15/BookShelfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch15/Buy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch15/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch15/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch15/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch15/Sell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch15/Shelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch16/gamelevel/AdvancedLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch16/gamelevel/BeginnerLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch16/gamelevel/MainBoardPlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch16/gamelevel/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch16/gamelevel/PlayerLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch16/gamelevel/SuperLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch16/gamelevel/UltraSuperLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch16/scheduler/LeastJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch16/scheduler/PriorityAllocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch16/scheduler/RoundRobin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch16/scheduler/Scheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/ch16/scheduler/SchedulerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3/ch14/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/ch14/Calc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3/ch14/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/ch14/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3/ch14/CompleteCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/ch14/CompleteCalc.java" afterDir="false" />
-    </list>
+    <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="study" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -228,7 +203,7 @@
       <updated>1715786590355</updated>
       <workItem from="1715786591358" duration="2036000" />
       <workItem from="1716039581023" duration="20164000" />
-      <workItem from="1716394912500" duration="97430000" />
+      <workItem from="1716394912500" duration="98253000" />
     </task>
     <task id="LOCAL-00001" summary="study">
       <option name="closed" value="true" />
@@ -334,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717416313759</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="study">
+      <option name="closed" value="true" />
+      <created>1717421870010</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717421870010</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
