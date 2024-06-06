@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="study">
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch02/EqualsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch03/StringBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch03/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch03/StringTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch03/TestBlockTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,10 +77,14 @@
     "Application.OrderTest.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.SchedulerTest.executor": "Run",
+    "Application.StringBuilderTest.executor": "Run",
+    "Application.StringTest.executor": "Run",
+    "Application.StringTest2.executor": "Run",
     "Application.StudentSubjectTest.executor": "Run",
     "Application.StudentTest.executor": "Run",
     "Application.SubjectTest.executor": "Run",
     "Application.TakeTransTest.executor": "Debug",
+    "Application.TestBlockTest.executor": "Run",
     "Application.TestReport.executor": "Run",
     "Application.TwoDimensionTest.executor": "Run",
     "Application.UserInfoClient.executor": "Run",
@@ -114,33 +120,7 @@
       <recent name="Chapter2.ch24" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EqualsTest">
-    <configuration name="BookShelfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.ch15.BookShelfTest" />
-      <module name="java-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter3.ch15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4.ch01.BookTest" />
-      <module name="java-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter4.ch01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestBlockTest">
     <configuration name="EqualsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter4.ch02.EqualsTest" />
       <module name="java-study" />
@@ -154,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainBoardPlay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.ch16.gamelevel.MainBoardPlay" />
+    <configuration name="StringBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.ch03.StringBuilderTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.ch16.gamelevel.*" />
+          <option name="PATTERN" value="Chapter4.ch03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +147,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchedulerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.ch16.scheduler.SchedulerTest" />
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.ch03.StringTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.ch16.scheduler.*" />
+          <option name="PATTERN" value="Chapter4.ch03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.ch03.StringTest2" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4.ch03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBlockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.ch03.TestBlockTest" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4.ch03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestBlockTest" />
+        <item itemvalue="Application.StringBuilderTest" />
+        <item itemvalue="Application.StringTest2" />
+        <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.EqualsTest" />
-        <item itemvalue="Application.BookTest" />
-        <item itemvalue="Application.SchedulerTest" />
-        <item itemvalue="Application.MainBoardPlay" />
-        <item itemvalue="Application.BookShelfTest" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +214,7 @@
       <updated>1715786590355</updated>
       <workItem from="1715786591358" duration="2036000" />
       <workItem from="1716039581023" duration="20164000" />
-      <workItem from="1716394912500" duration="107296000" />
+      <workItem from="1716394912500" duration="109775000" />
     </task>
     <task id="LOCAL-00001" summary="study">
       <option name="closed" value="true" />
@@ -338,7 +344,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717595545541</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="study">
+      <option name="closed" value="true" />
+      <created>1717635283145</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1717635283145</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
