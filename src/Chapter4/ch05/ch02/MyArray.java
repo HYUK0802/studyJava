@@ -67,5 +67,6 @@ public class MyArray {
         if (count == 0) {
             return true;
         }
+        return false;
     }
 }
