@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="study">
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch04/MyArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch04/MyArrayStackTest.java" afterDir="false" />
+    <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="stack">
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch05/MyLinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch05/MyListQueueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter4/ch05/ch02/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch02/MyArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter4/ch05/ch02/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch02/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter4/ch05/ch02/MyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch02/MyLinkedListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter4/ch05/ch02/MyListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch02/MyListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +122,7 @@
       <recent name="Chapter2.ch24" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyArrayStackTest">
+  <component name="RunManager" selected="Application.MyListQueueTest">
     <configuration name="Chapter4.ch04.StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter4.ch04.StringTest" />
       <module name="java-study" />
@@ -179,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBlockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4.ch03.TestBlockTest" />
+    <configuration name="MyListQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5.ch05.MyListQueueTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4.ch03.*" />
+          <option name="PATTERN" value="Chapter5.ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyListQueueTest" />
         <item itemvalue="Application.MyArrayStackTest" />
         <item itemvalue="Application.MyLinkedListTest" />
         <item itemvalue="Application.ClassTest" />
         <item itemvalue="Application.Chapter4.ch04.StringTest" />
-        <item itemvalue="Application.TestBlockTest" />
       </list>
     </recent_temporary>
   </component>
@@ -383,7 +379,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718199479770</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="stack">
+      <option name="closed" value="true" />
+      <created>1718282877947</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1718282877947</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,7 +395,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="study" />
-    <option name="LAST_COMMIT_MESSAGE" value="study" />
+    <MESSAGE value="stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="stack" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java_study$Chapter2_ch06_StudentTest.ic" NAME="Chapter2.ch06.StudentTest Coverage Results" MODIFIED="1716366838777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
