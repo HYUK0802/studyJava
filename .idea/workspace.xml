@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="study">
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch05/ch02/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch05/ch02/MyLinkedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/ch05/ch02/MyListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch04/MyArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch04/MyArrayStackTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter4/ch05/ch02/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/ch05/ch02/MyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/ch05/ch02/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch02/MyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/ch05/ch02/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch02/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/ch05/ch02/MyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch02/MyLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/ch05/ch02/MyListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch02/MyListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +77,8 @@
     "Application.FunctionTest.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MainBoardPlay.executor": "Run",
+    "Application.MyArrayStackTest.executor": "Run",
+    "Application.MyLinkedListTest.executor": "Run",
     "Application.ObjectCopyTest.executor": "Run",
     "Application.OrderTest.executor": "Run",
     "Application.Person.executor": "Run",
@@ -122,7 +126,7 @@
       <recent name="Chapter2.ch24" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyLinkedListTest">
+  <component name="RunManager" selected="Application.MyArrayStackTest">
     <configuration name="Chapter4.ch04.StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter4.ch04.StringTest" />
       <module name="java-study" />
@@ -149,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4.ch05.ch02.MyLinkedListTest" />
+    <configuration name="MyArrayStackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5.ch04.MyArrayStackTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4.ch05.ch02.*" />
+          <option name="PATTERN" value="Chapter5.ch04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4.ch03.StringBuilderTest" />
+    <configuration name="MyLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5.ch02.MyLinkedListTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4.ch03.*" />
+          <option name="PATTERN" value="Chapter5.ch02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyArrayStackTest" />
         <item itemvalue="Application.MyLinkedListTest" />
         <item itemvalue="Application.ClassTest" />
         <item itemvalue="Application.Chapter4.ch04.StringTest" />
         <item itemvalue="Application.TestBlockTest" />
-        <item itemvalue="Application.StringBuilderTest" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +375,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718028700418</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="study">
+      <option name="closed" value="true" />
+      <created>1718199479770</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1718199479770</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

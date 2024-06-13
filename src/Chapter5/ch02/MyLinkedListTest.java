@@ -1,4 +1,4 @@
-package Chapter4.ch05.ch02;
+package Chapter5.ch02;
 
 
 public class MyLinkedListTest {
