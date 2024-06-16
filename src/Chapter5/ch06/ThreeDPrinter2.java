@@ -1,5 +1,7 @@
 package Chapter5.ch06;
 
+import Chapter5.ch07.Plastic;
+
 public class ThreeDPrinter2 {
 
     private Plastic material;

@@ -1,6 +1,4 @@
-package Chapter5.ch06;
-
-import Chapter5.ch07.Material;
+package Chapter5.ch07;
 
 public class GenericPrinter<T extends Material> {
 

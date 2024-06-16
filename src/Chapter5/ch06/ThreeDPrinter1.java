@@ -1,5 +1,7 @@
 package Chapter5.ch06;
 
+import Chapter5.ch07.Powder;
+
 public class ThreeDPrinter1 {
 
     private Powder material;

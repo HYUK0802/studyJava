@@ -1,7 +1,4 @@
-package Chapter5.ch06;
-
-import Chapter5.ch07.GenericPrinter;
-import Chapter5.ch07.Powder;
+package Chapter5.ch07;
 
 public class GenericPrinterTest {
     public static void main(String[] args) {
@@ -11,8 +8,9 @@ public class GenericPrinterTest {
         powderPrinter.setMaterial(powder);
 
         Powder p = powderPrinter.getMaterial();
-
         System.out.println(powderPrinter.toString());
+
+        p.doPrinting();
 
     }
 }
