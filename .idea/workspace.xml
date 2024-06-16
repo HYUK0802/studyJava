@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="stack">
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch05/MyLinkedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch05/MyListQueueTest.java" afterDir="false" />
+    <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="Queue">
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch06/GenericPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch06/GenericPrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch06/Plastic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch06/Powder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinter3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,10 +77,12 @@
     "Application.EmployeeTest.executor": "Run",
     "Application.EqualsTest.executor": "Run",
     "Application.FunctionTest.executor": "Run",
+    "Application.GenericPrinterTest.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MainBoardPlay.executor": "Run",
     "Application.MyArrayStackTest.executor": "Run",
     "Application.MyLinkedListTest.executor": "Run",
+    "Application.MyListQueueTest.executor": "Run",
     "Application.ObjectCopyTest.executor": "Run",
     "Application.OrderTest.executor": "Run",
     "Application.Person.executor": "Run",
@@ -118,13 +126,14 @@
       <recent name="$PROJECT_DIR$/src/Chapter3/ch13" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Chapter5.ch06" />
       <recent name="Chapter3.ch14" />
       <recent name="Chapter2.ch24" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyListQueueTest">
-    <configuration name="Chapter4.ch04.StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4.ch04.StringTest" />
+  <component name="RunManager" selected="Application.GenericPrinterTest">
+    <configuration name="ClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.ch04.ClassTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
@@ -136,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4.ch04.ClassTest" />
+    <configuration name="GenericPrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5.ch06.GenericPrinterTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4.ch04.*" />
+          <option name="PATTERN" value="Chapter5.ch06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericPrinterTest" />
         <item itemvalue="Application.MyListQueueTest" />
         <item itemvalue="Application.MyArrayStackTest" />
         <item itemvalue="Application.MyLinkedListTest" />
         <item itemvalue="Application.ClassTest" />
-        <item itemvalue="Application.Chapter4.ch04.StringTest" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +396,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718282877947</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Queue">
+      <option name="closed" value="true" />
+      <created>1718285697010</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1718285697011</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,7 +413,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="study" />
     <MESSAGE value="stack" />
-    <option name="LAST_COMMIT_MESSAGE" value="stack" />
+    <MESSAGE value="Queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Queue" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java_study$Chapter2_ch06_StudentTest.ic" NAME="Chapter2.ch06.StudentTest Coverage Results" MODIFIED="1716366838777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
