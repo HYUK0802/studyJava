@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="Generic">
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch07/GenericPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch07/GenericPrinterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch07/Material.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch07/Plastic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch07/Powder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch06/GenericPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch06/GenericPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch06/GenericPrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch06/GenericPrinterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch06/Plastic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch06/Plastic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch06/Powder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch06/Powder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinter1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinter1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinter2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinter2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch08/GenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch08/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +71,7 @@
     "Application.EmployeeTest.executor": "Run",
     "Application.EqualsTest.executor": "Run",
     "Application.FunctionTest.executor": "Run",
+    "Application.GenericMethod.executor": "Run",
     "Application.GenericPrinterTest.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MainBoardPlay.executor": "Run",
@@ -135,13 +127,13 @@
       <recent name="Chapter2.ch24" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericPrinterTest">
-    <configuration name="ClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4.ch04.ClassTest" />
+  <component name="RunManager" selected="Application.GenericMethod">
+    <configuration name="GenericMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5.ch08.GenericMethod" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4.ch04.*" />
+          <option name="PATTERN" value="Chapter5.ch08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericMethod" />
         <item itemvalue="Application.GenericPrinterTest" />
         <item itemvalue="Application.MyListQueueTest" />
         <item itemvalue="Application.MyArrayStackTest" />
         <item itemvalue="Application.MyLinkedListTest" />
-        <item itemvalue="Application.ClassTest" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +408,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718546211471</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Generic">
+      <option name="closed" value="true" />
+      <created>1718547508490</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1718547508490</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Generic">
+      <option name="closed" value="true" />
+      <created>1718547519372</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1718547519372</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
