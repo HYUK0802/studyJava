@@ -4,16 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="Queue">
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch06/GenericPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch06/GenericPrinterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch06/Plastic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch06/Powder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinter1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinter3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="Generic">
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch07/GenericPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch07/GenericPrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch07/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch07/Plastic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch07/Powder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch06/GenericPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch06/GenericPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch06/GenericPrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch06/GenericPrinterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch06/Plastic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch06/Plastic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch06/Powder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch06/Powder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinter1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinter1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinter2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinter2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch06/ThreeDPrinterTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +107,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/hyuk/Desktop/StudyAlone/java-study",
+    "last_opened_file_path": "/Users/hyuk/Desktop/StudyAlone/java-study/src/Chapter5/ch06",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -115,17 +118,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Chapter5/ch06" />
       <recent name="$PROJECT_DIR$/src/Chapter3/ch14" />
       <recent name="$PROJECT_DIR$/src/Chapter3/ch08" />
       <recent name="$PROJECT_DIR$/src/Chapter3/ch06" />
       <recent name="$PROJECT_DIR$/src/Chapter3/ch04" />
-      <recent name="$PROJECT_DIR$/src/Chapter3/ch03" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Chapter3" />
       <recent name="$PROJECT_DIR$/src/Chapter3/ch13" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Chapter5.ch07" />
       <recent name="Chapter5.ch06" />
       <recent name="Chapter3.ch14" />
       <recent name="Chapter2.ch24" />
@@ -150,7 +154,7 @@
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter5.ch06.*" />
+          <option name="PATTERN" value="Chapter5.ch07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -404,7 +408,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718285697011</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Generic">
+      <option name="closed" value="true" />
+      <created>1718546211471</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1718546211471</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,7 +426,8 @@
     <MESSAGE value="study" />
     <MESSAGE value="stack" />
     <MESSAGE value="Queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Queue" />
+    <MESSAGE value="Generic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java_study$Chapter2_ch06_StudentTest.ic" NAME="Chapter2.ch06.StudentTest Coverage Results" MODIFIED="1716366838777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
