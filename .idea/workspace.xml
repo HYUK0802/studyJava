@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="arrayList">
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch12/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch12/MemberArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch12/MemberHashSet.java" afterDir="false" />
+    <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="hashSet">
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch12/MemberArrayListTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch10/MemberArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch10/MemberArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +122,7 @@
       <recent name="$PROJECT_DIR$/src/Chapter3/ch13" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Chapter5.ch12" />
       <recent name="Chapter5.ch07" />
       <recent name="Chapter5.ch06" />
       <recent name="Chapter3.ch14" />
@@ -444,7 +442,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718630760323</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="hashSet">
+      <option name="closed" value="true" />
+      <created>1718633310201</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1718633310201</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,7 +462,8 @@
     <MESSAGE value="Queue" />
     <MESSAGE value="Generic" />
     <MESSAGE value="arrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="arrayList" />
+    <MESSAGE value="hashSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="hashSet" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java_study$Chapter2_ch06_StudentTest.ic" NAME="Chapter2.ch06.StudentTest Coverage Results" MODIFIED="1716366838777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
