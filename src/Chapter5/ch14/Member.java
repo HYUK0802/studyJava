@@ -1,8 +1,6 @@
-package Chapter5.ch13;
+package Chapter5.ch14;
 
-import Chapter5.ch08.Point;
-
-public class Member implements Comparable<Member> {
+public class Member {
 
     private int memberId;
     private String memberName;
@@ -50,22 +48,5 @@ public class Member implements Comparable<Member> {
     @Override
     public String toString() {
         return memberName + "회원님의 아이디는 " + memberId + "입니다. ";
-    }
-
-
-    @Override
-    public int compareTo(Member member) {
-
-        if (this.memberId > member.memberId) {
-            return -1;
-        }
-        else if (this.memberId < member.memberId)
-        {
-            return 1;
-        } else {
-            return 0;
-
-        }
-
     }
 }

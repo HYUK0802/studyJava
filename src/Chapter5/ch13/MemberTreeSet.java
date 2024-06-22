@@ -1,22 +1,23 @@
 package Chapter5.ch13;
 
-import java.util.HashSet;
+import Chapter5.ch13.Member;
+
+
 import java.util.Iterator;
+import java.util.TreeSet;
 
-public class MemberHashSet {
+public class MemberTreeSet {
 
-    private HashSet<Member> hashSet;
+    private TreeSet<Member> treeSet;
 
-    public MemberHashSet() {
-        hashSet = new HashSet<>();
+    public MemberTreeSet() {
+        treeSet = new TreeSet<>();
 
     }
-    public MemberHashSet(int size) {
-        hashSet = new HashSet<>(size);
-    }
+
 
     public void addMember(Member member) {
-        hashSet.add(member);
+        treeSet.add(member);
     }
 
 //    public boolean removeMember(int memberId ) {
@@ -35,13 +36,13 @@ public class MemberHashSet {
 //    }
     public boolean removeMember(int memberId) {
 
-        Iterator<Member> ir = hashSet.iterator();
+        Iterator<Member> ir = treeSet.iterator();
 
         while (ir.hasNext()) {
             Member member = ir.next();
             int tempId = member.getMemberId();
             if (tempId == memberId) {
-                hashSet.remove(member);
+                treeSet.remove(member);
                 return true;
             }
         }
@@ -50,7 +51,7 @@ public class MemberHashSet {
     }
 
     public void showAllMember() {
-        for (Member member : hashSet) {
+        for (Member member : treeSet) {
             System.out.println(member);
         }
         System.out.println();

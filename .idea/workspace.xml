@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="hashSet">
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch12/MemberArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch14/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch14/MemberHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch12/MemberArrayListTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch13/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch13/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch13/MemberArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch13/MemberTreeSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch13/MemberArrayListTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch13/MemberHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch13/MemberTreeSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +82,7 @@
     "Application.Main.executor": "Run",
     "Application.MainBoardPlay.executor": "Run",
     "Application.MemberArrayListTest.executor": "Run",
+    "Application.MemberTreeSetTest.executor": "Run",
     "Application.MyArrayStackTest.executor": "Run",
     "Application.MyLinkedListTest.executor": "Run",
     "Application.MyListQueueTest.executor": "Run",
@@ -122,14 +129,14 @@
       <recent name="$PROJECT_DIR$/src/Chapter3/ch13" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Chapter5.ch14" />
+      <recent name="Chapter5.ch13" />
       <recent name="Chapter5.ch12" />
       <recent name="Chapter5.ch07" />
       <recent name="Chapter5.ch06" />
-      <recent name="Chapter3.ch14" />
-      <recent name="Chapter2.ch24" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Chapter5.ch12.MemberArrayListTest">
+  <component name="RunManager" selected="Application.MemberTreeSetTest">
     <configuration name="Chapter5.ch12.MemberArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter5.ch12.MemberArrayListTest" />
       <module name="java-study" />
@@ -182,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyListQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5.ch05.MyListQueueTest" />
+    <configuration name="MemberTreeSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5.ch13.MemberTreeSetTest" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter5.ch05.*" />
+          <option name="PATTERN" value="Chapter5.ch13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MemberTreeSetTest" />
         <item itemvalue="Application.Chapter5.ch12.MemberArrayListTest" />
         <item itemvalue="Application.MemberArrayListTest" />
         <item itemvalue="Application.GenericMethod" />
         <item itemvalue="Application.GenericPrinterTest" />
-        <item itemvalue="Application.MyListQueueTest" />
       </list>
     </recent_temporary>
   </component>
@@ -466,7 +473,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718806306048</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="hashSet">
+      <option name="closed" value="true" />
+      <created>1718980671037</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1718980671037</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
