@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="hashSet">
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch14/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/ch14/MemberHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch12/MemberArrayListTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch13/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch13/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch13/MemberArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch13/MemberTreeSetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch13/MemberArrayListTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5/ch13/MemberHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5/ch13/MemberTreeSet.java" afterDir="false" />
-    </list>
+    <list default="true" id="43c3a9cd-3497-4eea-a4f5-3551a19e2f26" name="Changes" comment="TreeSet" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -481,7 +472,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718980671037</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="TreeSet">
+      <option name="closed" value="true" />
+      <created>1719031497185</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1719031497185</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,7 +493,8 @@
     <MESSAGE value="Generic" />
     <MESSAGE value="arrayList" />
     <MESSAGE value="hashSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="hashSet" />
+    <MESSAGE value="TreeSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="TreeSet" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java_study$Chapter2_ch06_StudentTest.ic" NAME="Chapter2.ch06.StudentTest Coverage Results" MODIFIED="1716366838777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
